@@ -6,13 +6,13 @@
 
 
 <div class="row" style="display: flex;">
-<div class="col" style="float: left; flex: 1;">
+<div class="col" style="float: left; flex: 1; width:300px">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Googleok&theme=tokyonight&show_icons=true)
 
 </div>
 
-<div style="float: left; margin-left: 5px; flex: 1;">
+<div style="float: left; margin-left: 5px; flex: 1; width:300px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Googleok&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
