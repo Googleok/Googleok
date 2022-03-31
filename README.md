@@ -5,13 +5,8 @@
 
 </div>
 
-<div style="float: right; flex: 1;">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Googleok&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </div>
-</div>
+
 
 
 
